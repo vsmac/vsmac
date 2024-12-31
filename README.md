@@ -42,15 +42,8 @@ Welcome to my GitHub! I'm Vishnu Kumar Gaur, a DevOps Engineer with 8+ years of 
 
 Here are some public repositories showcasing my work:
 
-- [IaC Templates](https://github.com/yourusername/iac-templates): Terraform and Ansible templates for cloud provisioning.  
-- [CI/CD Examples](https://github.com/yourusername/cicd-examples): Sample CI/CD pipelines using Jenkins and GitHub Actions.  
-- [Kubernetes Resources](https://github.com/yourusername/kubernetes-resources): Helm charts and deployment manifests.
-
-## 📜 Certifications
-
-- AWS Certified DevOps Engineer – Professional  
-- Certified Kubernetes Administrator (CKA)  
-- Microsoft Certified: DevOps Engineer Expert  
+- [IaC Templates](https://github.com/vsmac/terraform_aws): Terraform and Ansible templates for cloud provisioning.  
+ 
 
 ## 🤝 Let's Collaborate!
 
